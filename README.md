@@ -79,16 +79,10 @@ O servidor será iniciado em:
 http://localhost:3001
 ```
 
-Se quiser confirmar, acesse no navegador:
-
-```
-http://localhost:3001
-```
-
 Você verá a mensagem:
 
 ```
-Servidor funcionando corretamente!
+Servidor rodando na porta 3001
 ```
 
 ---
